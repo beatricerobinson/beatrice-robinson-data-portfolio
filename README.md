@@ -1,6 +1,6 @@
-# 👋🏽 Hi, I'm Beatrice Robinson
+# Hi, I'm Beatrice Robinson
 
-### Data Analyst | Healthcare Analytics | Data Visualization
+# Data Analyst | Healthcare Analytics | Data Visualization
 
 Welcome to my professional data analytics portfolio.
 
@@ -10,7 +10,7 @@ I am currently expanding my technical portfolio through hands-on projects using 
 
 ---
 
-## 👩🏽‍💻 About Me
+# About Me
 
 - 🎓 Master's degree in Data Analytics
 - 🎓 Bachelor's degree in Public Health
@@ -22,7 +22,7 @@ I am currently expanding my technical portfolio through hands-on projects using 
 
 ---
 
-## 🛠️ Technical Skills
+# Technical Skills
 
 | Category | Tools |
 |---|---|
@@ -35,9 +35,9 @@ I am currently expanding my technical portfolio through hands-on projects using 
 
 ---
 
-## 📂 Featured Projects
+# Featured Projects
 
-### 📊 Project 1 — Coming Soon
+# Project 1 — Coming Soon
 
 **Healthcare Data Analysis with R**
 
@@ -47,7 +47,7 @@ A data analysis project demonstrating data cleaning, exploratory analysis, stati
 
 ---
 
-### 📈 Project 2 — Coming Soon
+# Project 2 — Coming Soon
 
 **Healthcare Operations Dashboard**
 
@@ -57,7 +57,7 @@ An interactive dashboard designed to demonstrate healthcare operations reporting
 
 ---
 
-### 🗄️ Project 3 — Coming Soon
+# Project 3 — Coming Soon
 
 **SQL Data Analysis Project**
 
@@ -67,7 +67,7 @@ A SQL project demonstrating data querying, filtering, aggregation, joins, and an
 
 ---
 
-## 🎯 What I'm Currently Learning
+# What I'm Currently Learning
 
 - R Programming
 - Statistical Analysis
@@ -79,12 +79,12 @@ A SQL project demonstrating data querying, filtering, aggregation, joins, and an
 
 ---
 
-## 📫 Let's Connect
+# Let's Connect
 
 I'm always interested in connecting with other data professionals, collaborating on projects, and learning new technologies.
 
-**LinkedIn:** [Connect with me on LinkedIn](YOUR-LINKEDIN-URL)
+**LinkedIn:** https://www.linkedin.com/in/bearobin/
 
 ---
 
-⭐ Thanks for visiting my portfolio!
+Thanks for visiting my portfolio!
