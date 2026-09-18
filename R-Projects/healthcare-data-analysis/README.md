@@ -6,101 +6,160 @@ This project analyzes adult asthma prevalence data using R to identify patterns 
 
 The project demonstrates an end-to-end healthcare data analytics workflow, including data cleaning, transformation, descriptive analysis, aggregation, and visualization.
 
+The goal is to transform healthcare data into clear, meaningful insights that can support data-driven decision-making.
+
+---
+
 ## Healthcare Question
 
-How does adult asthma prevalence vary across geographic locations and demographic groups, and how does prevalence change over time?
+**How does adult asthma prevalence vary across geographic locations and demographic groups, and how does prevalence change over time?**
+
+---
 
 ## Project Objectives
 
 - Clean and prepare healthcare data for analysis
 - Examine adult asthma prevalence across U.S. states
-- Analyze trends in asthma prevalence over time
+- Analyze asthma prevalence trends over time
 - Compare prevalence by sex
 - Compare prevalence by race/ethnicity
 - Compare prevalence by age group
 - Identify geographic and demographic patterns
-- Create visualizations to communicate findings
+- Create data visualizations to communicate findings
 - Develop data-driven insights from healthcare data
+- Demonstrate a reproducible R analytics workflow
+
+---
 
 ## Dataset
 
 The analysis uses publicly available CDC healthcare data focused on **current asthma among adults**.
 
-The dataset includes information such as:
+The dataset was analyzed to examine differences in asthma prevalence across geographic and demographic groups.
 
-- Location
-- Year
-- Asthma prevalence
+### Key Data Dimensions
+
+- Geographic location
+- Time period
 - Sex
 - Race/ethnicity
 - Age group
-- Stratification information
+- Asthma prevalence
 
-Missing asthma prevalence values were removed before analysis, and prevalence values were converted from text to numeric format for analysis.
-
-## Analysis Performed
-
-### Geographic Analysis
-
-Calculated average adult asthma prevalence across U.S. states and identified states with higher and lower average prevalence.
-
-### Trend Analysis
-
-Examined adult asthma prevalence in the United States across available years to identify changes over time.
-
-### Demographic Analysis
-
-Compared average adult asthma prevalence across:
-
-- Sex
-- Race/ethnicity
-- Age groups
-
-### Statistical Summaries
-
-Used aggregation and descriptive statistics to calculate average prevalence across geographic and demographic groups.
-
-## Visualizations
-
-The project includes visualizations of:
-
-- Top 10 U.S. states by average adult asthma prevalence
-- Adult asthma prevalence over time in the United States
-- Adult asthma prevalence by sex
-- Adult asthma prevalence by race/ethnicity
-- Adult asthma prevalence by age group
-- Average adult asthma prevalence by U.S. state
+---
 
 ## Tools & Technologies
 
 - **R**
 - **RStudio**
-- **Base R**
-- **dplyr**
 - **tidyverse**
+- **dplyr**
 - **ggplot2**
 - **readr**
-- Data cleaning and transformation
-- Exploratory data analysis
-- Descriptive statistics
-- Data visualization
+- **Data cleaning and transformation**
+- **Exploratory data analysis (EDA)**
+- **Descriptive statistics**
+- **Data aggregation**
+- **Data visualization**
+- **CSV data processing**
+- **GitHub**
 
-## Skills Demonstrated
+---
 
-This project demonstrates experience with:
+## Analytical Workflow
 
-- Healthcare data analysis
-- Data cleaning
-- Data transformation
-- Exploratory data analysis (EDA)
-- Descriptive statistics
-- Aggregation
-- Geographic analysis
-- Demographic analysis
-- Trend analysis
-- Data visualization
-- Communicating data-driven insights
-- Reproducible analytical workflows
+The project follows a structured healthcare data analytics workflow:
+
+1. **Data Import**
+   - Imported healthcare data into R
+   - Examined variables and data structure
+
+2. **Data Cleaning**
+   - Standardized variables
+   - Prepared data for analysis
+   - Removed unnecessary or unusable records
+
+3. **Data Transformation**
+   - Created analytical groupings
+   - Aggregated data by geographic and demographic characteristics
+
+4. **Exploratory Data Analysis**
+   - Examined distributions and patterns
+   - Compared asthma prevalence across groups
+
+5. **Statistical Summaries**
+   - Calculated summary measures
+   - Created state-level and demographic summary datasets
+
+6. **Visualization**
+   - Developed charts using `ggplot2`
+   - Created visualizations for geographic, demographic, and time-based comparisons
+
+7. **Insight Development**
+   - Identified notable patterns
+   - Translated analytical results into healthcare-focused observations
+
+---
+
+## Key Visualizations
+
+### Top 10 States by Asthma Prevalence
+
+![Top 10 States by Asthma Prevalence](./figures/top_10_asthma_states.png)
+
+### Top 10 Geographic Locations
+
+![Top 10 Asthma Locations](./figures/top_10_asthma_locations.png)
+
+### U.S. Asthma Prevalence Trend
+
+![U.S. Asthma Prevalence Trend](./figures/us_asthma_trend.png)
+
+### Asthma Prevalence by Sex
+
+![Asthma Prevalence by Sex](./figures/asthma_by_sex.png)
+
+### Asthma Prevalence by Race/Ethnicity
+
+![Asthma Prevalence by Race/Ethnicity](./figures/asthma_by_race.png)
+
+### Asthma Prevalence by Age
+
+![Asthma Prevalence by Age](./figures/asthma_by_age.png)
+
+---
+
+## Key Analytical Outputs
+
+The project produces several summarized datasets that can be used for additional analysis and visualization.
+
+### Summary Files
+
+- `state_asthma_summary.csv`
+- `asthma_trend_summary.csv`
+- `asthma_sex_summary.csv`
+- `asthma_race_summary.csv`
+- `asthma_age_summary.csv`
+
+These files provide structured analytical outputs organized by geographic, temporal, and demographic dimensions.
+
+---
+
+## R Scripts
+
+### `analysis.R`
+
+Primary analysis script containing the main analytical workflow, including data processing, analysis, and visualization.
+
+### `analysis_clean.R`
+
+Cleaned and organized version of the analytical workflow designed to improve readability and reproducibility.
+
+### `healthcare-data-analysis.Rproj`
+
+RStudio project file used to organize and manage the project environment.
+
+---
 
 ## Project Structure
 
@@ -108,18 +167,21 @@ This project demonstrates experience with:
 healthcare-data-analysis/
 │
 ├── figures/
-│   ├── top_10_asthma_states.png
-│   ├── us_asthma_trend.png
-│   ├── asthma_by_sex.png
+│   ├── asthma_by_age.png
 │   ├── asthma_by_race.png
-│   └── asthma_by_age.png
+│   ├── asthma_by_sex.png
+│   ├── top_10_asthma_locations.png
+│   ├── top_10_asthma_states.png
+│   └── us_asthma_trend.png
 │
 ├── analysis.R
 ├── analysis_clean.R
 ├── healthcare-data-analysis.Rproj
+│
 ├── asthma_age_summary.csv
 ├── asthma_race_summary.csv
 ├── asthma_sex_summary.csv
 ├── asthma_trend_summary.csv
 ├── state_asthma_summary.csv
+│
 └── README.md
