@@ -37,13 +37,16 @@ I am currently expanding my technical portfolio through hands-on projects using 
 
 # Featured Projects
 
-# Project 1 — Coming Soon
+## Project 1 — Healthcare Data Analysis
 
 **Healthcare Data Analysis with R**
 
-A data analysis project demonstrating data cleaning, exploratory analysis, statistical analysis, and visualization using R.
+A healthcare data analytics project demonstrating data cleaning, exploratory data analysis, statistical analysis, data visualization, and the communication of data-driven insights using R.
 
-**Tools:** R, RStudio, ggplot2, dplyr
+**Tools:** R • RStudio • ggplot2 • dplyr
+
+**Project:** [View Healthcare Data Analysis Project](https://github.com/beatricerobinson/beatrice-robinson-data-portfolio/tree/main/R-Projects/healthcare-data-analysis)
+
 
 ---
 
