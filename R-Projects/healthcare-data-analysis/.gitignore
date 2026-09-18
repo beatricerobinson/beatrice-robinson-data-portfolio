@@ -1,0 +1,10 @@
+# Raw CDC dataset
+data/
+
+# RStudio files
+.Rhistory
+.RData
+.Ruserdata
+
+# Operating system files
+.DS_Store
