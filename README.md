@@ -1,93 +1,131 @@
-# Hi, I'm Beatrice Robinson
+# 👋🏾 Hi, I'm Beatrice Robinson
 
-# Data Analyst | Healthcare Analytics | Data Visualization
+# AI Project Builder | Data Analyst | Healthcare & Workforce Analytics
 
-Welcome to my professional data analytics portfolio.
+> **Decoding the Matrix. Building Intelligence One Algorithm at a Time.**
 
-I am a data analyst with a background in **public health, healthcare operations, and data analytics**. I use data to identify patterns, communicate insights, and support data-driven decision-making.
+Welcome to my professional data and technology portfolio.
 
-I am currently expanding my technical portfolio through hands-on projects using **R, SQL, Power BI, Tableau, and Excel**.
+I'm a data and technology professional with a background in **public health, healthcare operations, workforce analytics, market research, and data analysis**.
 
----
+My work is evolving from traditional analytics into **AI project development, intelligent systems, simulation, and data-driven solutions**.
 
-# About Me
-
-- 🎓 Master's degree in Data Analytics
-- 🎓 Bachelor's degree in Public Health
-- 📊 Data Analytics & Market Research
-- 🏥 Healthcare Analytics
-- 📈 Data Visualization & Reporting
-- 💻 R Programming & SQL
-- 📊 Power BI & Tableau
+I enjoy taking complex problems, breaking them down into data and logic, and building practical projects that turn information into something useful.
 
 ---
 
-# Technical Skills
+# 🧠 What I Build
 
-| Category | Tools |
-|---|---|
-| Programming | R |
-| Databases | SQL |
-| Visualization | Power BI, Tableau |
-| Data Analysis | R, Excel, SQL |
-| Healthcare | Healthcare Data & Operations |
-| Collaboration | GitHub, Microsoft 365 |
-
----
-
-# Featured Projects
-
-## Project 1 — Healthcare Data Analysis
-
-**Healthcare Data Analysis with R**
-
-A healthcare data analytics project demonstrating data cleaning, exploratory data analysis, statistical analysis, data visualization, and the communication of data-driven insights using R.
-
-**Tools:** R • RStudio • ggplot2 • dplyr
-
-**Project:** [View Healthcare Data Analysis Project](https://github.com/beatricerobinson/beatrice-robinson-data-portfolio/tree/main/R-Projects/healthcare-data-analysis)
-
+- 🤖 AI and intelligent technology projects
+- 📊 Data analytics and visualization
+- 🏥 Healthcare analytics
+- 👥 Workforce and recruitment analytics
+- ⚙️ Data-driven simulations
+- 📈 Business intelligence dashboards
+- 🔎 Exploratory and statistical analysis
+- 💻 Reproducible analytics projects
 
 ---
 
-# Project 2 — Coming Soon
+# 🛠️ Technical Toolkit
 
-**Healthcare Operations Dashboard**
+# Data & Programming
 
-An interactive dashboard designed to demonstrate healthcare operations reporting and data visualization.
-
-**Tools:** Power BI, Excel
-
----
-
-# Project 3 — Coming Soon
-
-**SQL Data Analysis Project**
-
-A SQL project demonstrating data querying, filtering, aggregation, joins, and analytical insights.
-
-**Tools:** SQL
-
----
-
-# What I'm Currently Learning
-
-- R Programming
-- Statistical Analysis
-- Data Visualization
+- R
 - SQL
-- Healthcare Analytics
-- GitHub & Version Control
-- Data Storytelling
+- Python
+- Data Cleaning
+- Exploratory Data Analysis
+- Statistical Analysis
+
+# Business Intelligence & Visualization
+
+- Power BI
+- Tableau
+- Excel
+- Data Visualization
+
+# AI & Emerging Technology
+
+- AI Project Development
+- AI-Assisted Development
+- Intelligent Systems
+- Simulation
+- Automation
+- Applied AI
 
 ---
 
-# Let's Connect
+# 🚀 Featured Projects
 
-I'm always interested in connecting with other data professionals, collaborating on projects, and learning new technologies.
+# 🏥 Healthcare Data Analysis with R
 
-**LinkedIn:** https://www.linkedin.com/in/bearobin/
+A healthcare analytics project using public health data to explore patterns, trends, and disparities.
+
+**Tools:** R • RStudio • dplyr • ggplot2
+
+[View Healthcare Data Analysis Project](./R-Projects/healthcare-data-analysis)
 
 ---
 
-Thanks for visiting my portfolio!
+# ⚖️ Systemic Recruitment Disparity Simulator
+
+An interactive simulation exploring how sequential recruitment stages can influence candidate progression and outcomes.
+
+**Tools:** HTML • JavaScript • Simulation • GitHub Pages
+
+[View Recruitment Disparity Simulator](https://beatricerobinson.github.io/recruitment-disparity-simulator/)
+
+---
+
+# 📊 Areas of Interest
+
+- Artificial Intelligence
+- Data Analytics
+- Healthcare Technology
+- Workforce Analytics
+- Business Intelligence
+- Data Visualization
+- Automation
+- Applied Machine Learning
+- Data-Driven Decision Making
+
+---
+
+# 🎯 What I'm Building Toward
+
+I'm expanding my technical portfolio from **data analysis into AI project development**.
+
+My goal is to combine analytical thinking, algorithms, data, and emerging technology to build solutions to real-world problems.
+
+This portfolio documents that progression.
+
+---
+
+# 📚 Currently Growing
+
+- AI project development
+- Python
+- SQL
+- Machine learning
+- Data engineering
+- Automation
+- Applied AI
+
+---
+
+# 💡 My Philosophy
+
+> **Don't just analyze the problem. Build something that helps solve it.**
+
+---
+
+# 📫 Let's Connect
+
+I'm interested in opportunities involving:
+
+**AI • Data Analytics • Healthcare Technology • Business Intelligence • Workforce Analytics • Automation • Research • Data-Driven Innovation**
+
+---
+
+> **Decoding the Matrix. Building Intelligence One Algorithm at a Time.**
