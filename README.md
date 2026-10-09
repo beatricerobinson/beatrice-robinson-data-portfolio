@@ -1,8 +1,6 @@
-# 👋🏾 Hi, I'm Beatrice Robinson
+# Hi, I'm Beatrice Robinson
 
 # AI Project Builder | Data Analyst | Healthcare & Workforce Analytics
-
-> **Decoding the Matrix. Building Intelligence One Algorithm at a Time.**
 
 Welcome to my professional data and technology portfolio.
 
@@ -14,20 +12,20 @@ I enjoy taking complex problems, breaking them down into data and logic, and bui
 
 ---
 
-# 🧠 What I Build
+# What I Build
 
-- 🤖 AI and intelligent technology projects
-- 📊 Data analytics and visualization
-- 🏥 Healthcare analytics
-- 👥 Workforce and recruitment analytics
-- ⚙️ Data-driven simulations
-- 📈 Business intelligence dashboards
-- 🔎 Exploratory and statistical analysis
-- 💻 Reproducible analytics projects
+- AI and intelligent technology projects
+- Data analytics and visualization
+- Healthcare analytics
+- Workforce and recruitment analytics
+- Data-driven simulations
+- Business intelligence dashboards
+- Exploratory and statistical analysis
+- Reproducible analytics projects
 
 ---
 
-# 🛠️ Technical Toolkit
+# Technical Toolkit
 
 # Data & Programming
 
@@ -56,9 +54,9 @@ I enjoy taking complex problems, breaking them down into data and logic, and bui
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
-# 🏥 Healthcare Data Analysis with R
+# Healthcare Data Analysis with R
 
 A healthcare analytics project using public health data to explore patterns, trends, and disparities.
 
@@ -68,7 +66,7 @@ A healthcare analytics project using public health data to explore patterns, tre
 
 ---
 
-# ⚖️ Systemic Recruitment Disparity Simulator
+# Systemic Recruitment Disparity Simulator
 
 An interactive simulation exploring how sequential recruitment stages can influence candidate progression and outcomes.
 
@@ -78,7 +76,7 @@ An interactive simulation exploring how sequential recruitment stages can influe
 
 ---
 
-# 📊 Areas of Interest
+# Areas of Interest
 
 - Artificial Intelligence
 - Data Analytics
@@ -92,7 +90,7 @@ An interactive simulation exploring how sequential recruitment stages can influe
 
 ---
 
-# 🎯 What I'm Building Toward
+# What I'm Building Toward
 
 I'm expanding my technical portfolio from **data analysis into AI project development**.
 
@@ -102,7 +100,7 @@ This portfolio documents that progression.
 
 ---
 
-# 📚 Currently Growing
+# Currently Growing
 
 - AI project development
 - Python
@@ -114,18 +112,14 @@ This portfolio documents that progression.
 
 ---
 
-# 💡 My Philosophy
+# My Philosophy
 
 > **Don't just analyze the problem. Build something that helps solve it.**
 
 ---
 
-# 📫 Let's Connect
+# Let's Connect
 
 I'm interested in opportunities involving:
 
 **AI • Data Analytics • Healthcare Technology • Business Intelligence • Workforce Analytics • Automation • Research • Data-Driven Innovation**
-
----
-
-> **Decoding the Matrix. Building Intelligence One Algorithm at a Time.**
