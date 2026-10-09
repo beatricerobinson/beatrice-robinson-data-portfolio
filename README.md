@@ -1,6 +1,6 @@
 # Hi, I'm Beatrice Robinson
 
-# AI Project Builder | Data Analyst | Healthcare & Workforce Analytics
+# Data Analytics & Program Operations | Healthcare & Workforce Analytics | Compliance & Emerging AI
 
 Welcome to my professional data and technology portfolio.
 
